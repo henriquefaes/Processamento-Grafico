@@ -5,3 +5,4 @@ Repositório de Tarefas de Processamento Gráfico - Henrique Faés
 31/05/2025 - Entrega Atividade Vivencial 2 - Parallax Scrolling
 03/06/2025 - Tarefa | Mapeamento de Texturas
 14/06/2025 - Entrega Atividade Vivencial 3 - Desenho e Navegação em Tilemap Isométrico
+24/06/2025 - Controle e Animação de Sprites
